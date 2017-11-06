@@ -12,7 +12,7 @@ btn.addEventListener("click", () => {
 })
 ```
 
-# Generated Unique Identifier
+# Generated Unique Identifiers
 
 ```text
 c9b59f2-06c3-464f-5188-ba2a3fe55b7f
